@@ -1,5 +1,5 @@
-<h1>TODOless</h1>
-<h5>A simple and easy to use app for all your shopping needs</h5>
+<h1>MERN Todo List</h1>
+<h5>A todo web app built using MERN stack.</h5>
 <span>Try out the application<a href="https://ancient-badlands-17358.herokuapp.com/">here</a></span>
 <h3>Technologies Used</h3>
 <img src="https://i.morioh.com/139b757e13.png" alt="MERN-stack" />
