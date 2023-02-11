@@ -30,7 +30,7 @@
     "mongoose": "^5.9.16",
     "mongoose-autopopulate": "^0.12.2",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.20",
     "case-sensitive-paths-webpack-plugin": "^2.3.0"
   },
   "devDependencies": {
